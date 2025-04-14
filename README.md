@@ -15,7 +15,14 @@ A sleek and simple Flutter-based Smart Home controller UI. Control your smart de
 
 ## 🖼️ Screenshots
 
-| ![Home](demopics/p1.jpg) | ![Profile](demopics/p2.jpg) | ![Functionality](demopics/p3.jpg)
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="demopics/p1.jpg" alt="Home" width="300"/>
+  <img src="demopics/p2.jpg" alt="Profile" width="300"/>
+  <img src="demopics/p3.jpg" alt="Functionality" width="300"/>
+</p>
+
 
 ---
 
